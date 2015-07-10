@@ -60,7 +60,6 @@ public class ChangeReturn {
 			if (change.compareTo(q) >= 0) {
 				quarters++;
 				change= change.subtract(q);
-				System.out.println(change);
 			} 
 			else if (change.compareTo(d) >= 0) {
 				dimes++;
