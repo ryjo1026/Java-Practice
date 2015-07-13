@@ -2,8 +2,8 @@
  * PROJECT: Change Return
  * AUTHOR: ryjo1026
  * DESCRIPTION: The user enters a cost and then the amount of money given. The program will figure 
- * 				out the change and the number of quarters, dimes, nickels, pennies needed for the 
- * 				change.
+ * 		out the change and the number of quarters, dimes, nickels, pennies needed for the 
+ * 		change.
  * COMPLETED: 7/5/15
  */
 
