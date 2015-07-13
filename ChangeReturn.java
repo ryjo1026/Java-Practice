@@ -81,7 +81,6 @@ public class ChangeReturn {
 		System.out.println(nickels + " Nickel(s)");
 		System.out.println(pennies + " Pennies");
 
-		//Eclipse yells at you if you don't do this
 		scanner.close();
 	}
 
